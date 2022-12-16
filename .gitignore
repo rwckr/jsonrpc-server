@@ -1,0 +1,7 @@
+tmp/
+venv/
+*.pyc
+logs/
+build/
+*.egg-info/
+dist/
